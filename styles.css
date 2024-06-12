@@ -59,3 +59,28 @@ body {
 .card a:hover {
     background-color: #53637c;
 }
+
+@media (max-width: 600px) {
+    .card-container {
+        margin-top: 20%;
+        height: auto;
+    }
+
+    .card {
+        width: 90%;
+        padding: 15px;
+    }
+
+    .card h1 {
+        font-size: 20px;
+    }
+
+    .card p {
+        font-size: 14px;
+    }
+
+    .card a {
+        font-size: 14px;
+        padding: 8px 15px;
+    }
+}
