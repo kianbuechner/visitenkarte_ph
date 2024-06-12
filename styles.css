@@ -50,7 +50,7 @@ body {
     padding: 10px 20px;
     font-size: 16px;
     color: white;
-    background-color: #53637c;
+    background-color: #909eb5;
     border-radius: 5px;
     text-decoration: none;
     transition: background-color 0.3s ease;
@@ -67,7 +67,7 @@ body {
     }
 
     .card {
-        width: 90%;
+        width: 30%;
         padding: 15px;
     }
 
